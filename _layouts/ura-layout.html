@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ page.title }} • ura-spectre</title>
+		{% include ura-head.html %}
+	</head>
+	<body>
+		<div id="headcont">
+			<div class="head">	
+				<h1>{{ page.header }}</h1>
+				<div style="margin: 8px 0 16px"></div>
+				<div class="pagination">
+					{% if page.sections %}
+						<div class="kyaratabs">{% for sec in page.sections %}
+							<a href="{{ sec[1] }}">{{ sec[0] }}</a>{% endfor %}
+						</div>
+					{% endif %}
+					
+					<span style="position:absolute;left:0">
+						<a href={{ page.prv }}>« back</a>
+					</span>
+					<span style="margin:auto">
+						<a href="/">top</a>
+					</span>
+				</div>
+			</div>
+		</div>
+		
+		<div id="headspace"></div>
+		
+		{{ content }}
+	</body>
+	
+	<script src="/page.js"></script>
+</html>
