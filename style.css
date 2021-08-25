@@ -1,0 +1,297 @@
+:root {
+	--bg: #101018;
+	--siro: #fff0e0;
+	--aka: #e85060;
+	--darkaka: #c83848;
+	--pink: #ff90e8;
+	--ao: #6070ff;
+	--darkao: #4050e0;
+	--midori: #18e880;
+	--green: #10b484;
+	--darkgreen: #089050;
+	--ki: #ffdd40;
+	--purple: #9060c0;
+	--darkpurple:#602888;
+	--cyan: #a0f8ff;
+    --tan: #e8a878;
+	--grey: #7a7090;
+    --kuro: #383448;
+	--makkuro: #141420;
+	--cream: #ffd8b0;
+	--maxw: 1280px;
+	--minw: 512px;
+}
+
+body {
+	background-color: var(--bg);
+	font-family: "Mona","MS Gothic", sans-serif;
+	font-size: 16px;
+	color: var(--makkuro);
+	line-height:1.5em;
+	overflow-x:hidden;
+}	
+
+a {
+	color: var(--ki);
+	text-decoration: underline dotted;
+}
+h3>a {
+	color: var(--siro);
+}
+a:hover {
+	text-decoration: underline solid;
+	background-color: rgba(255,240,224,0.25);
+}
+a[role="button"] {
+	cursor:default;
+}
+
+li {
+	list-style-type: none;
+}
+
+p {
+	margin: 0 0 0.5em 0;
+}
+
+rt {
+	font-family: "Mona","MS PGothic",sans-serif;
+	font-size:12px;
+	line-height: 0;
+}
+
+h1 {
+	font-family: "MS Gothic", sans-serif;
+    font-size:22px;
+    font-weight: bold;
+    color:var(--ki);
+	margin:16px 0 8px 0;
+}
+
+h2 {
+	font-family: "MS Gothic", sans-serif;
+    font-size:22px;
+    font-weight: bold;
+    color:var(--purple);
+	margin:8px 0 16px 0;
+}
+
+h3 {
+    font-size:16px;
+    font-weight: bold;
+    color:var(--siro);
+	text-align:center;
+	padding:8px;
+	background-color:var(--kuro);
+	position:relative;
+	margin:0;
+	z-index:1;
+	scroll-margin-top: 144px;
+}
+
+#headcont {
+	position: fixed;
+	top:0;
+	left:0;
+	z-index: 24;
+	width:100%;
+	background-color:var(--bg);
+	padding-bottom:4px;
+}
+.head {
+    margin:4px auto;
+	text-align: center;
+	width:85%;
+    max-width:var(--maxw);
+    min-width:var(--minw);
+	border: 1px solid var(--purple);
+}
+#headspace {
+	padding-bottom:144px;
+}
+
+.kyaratabs {
+	display:flex;
+	flex-flow:row wrap;
+	justify-content:center;
+	margin-bottom: 8px;
+}
+.kyaratabs>a {
+	margin: 0 8px;
+}
+.pagination {
+	width: 95%;
+	margin: 8px auto;
+	position: relative;
+}
+
+.post_body {
+    width:85%;
+    max-width:var(--maxw);
+    min-width:var(--minw);
+    margin:8px auto;
+}
+
+.chat,
+.chatS {
+    background-color:var(--makkuro);
+	color:var(--siro);
+    padding: 10px 16px 8px;
+	margin: 0 0 16px;
+	position: relative;
+	overflow: hidden;
+	top: 0;
+	transition: max-height 0.5s ease-out, padding-top 0.5s ease-out, padding-bottom 0.5s ease-out, top 0.5s ease-out;
+}
+.chatS {
+	font-size:14px;
+}
+
+.movelist {
+	line-height:1.1em;
+}
+
+table {
+	width:100%;
+	padding:0px 8px;
+	table-layout:fixed;
+}
+tr {
+	vertical-align:top;
+}
+
+.note {
+	border:1px dashed var(--ao);
+	color:var(--ao);
+    padding: 10px 16px 8px 16px;
+	margin: 8px 0;
+	position: relative;
+}
+
+.hide {
+	max-height: 16px !important;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	top: -16px;
+}
+
+
+
+/*
+	button images
+*/
+.dirimg {
+	display:inline-block;
+	vertical-align: middle;
+	position:relative;
+	bottom:1px;
+}
+.dirimg.l {
+	margin-left: 1px;
+	margin-right: -1px;
+}
+.dirimg.r {
+	margin: 0 1px;
+}
+
+/*
+	text formatting
+*/
+t-r {
+	color:var(--aka);
+}
+t-r2 {
+	color:var(--darkaka);
+}
+t-g {
+	color:var(--midori);
+}
+t-g2 {
+	color:var(--green);
+}
+t-g3 {
+	color:var(--darkgreen);
+}
+t-b {
+	color:var(--ao);
+}
+t-b2 {
+	color:var(--darkao);
+}
+t-y {
+	color:var(--ki);
+}
+t-p {
+	color:var(--purple);
+}
+t-p2 {
+	color:var(--darkpurple);
+}
+t-w {
+	color:var(--siro);
+}
+t-cr {
+	color:var(--cream);
+}
+t-k {
+	color:var(--kuro);
+}
+t-mk {
+	color:var(--makkuro);
+}
+t-pi {
+	color:var(--pink);
+}
+t-cy {
+	color:var(--cyan);
+}
+t-gr {
+	color:var(--grey);
+}
+
+/*
+	triangles lol
+*/
+.triR, 
+.triL {
+	position:absolute;
+	bottom:0;
+	fill:var(--kuro);
+}
+.triL {
+	left:-20px;
+}
+.triR {
+	right:-20px;
+}
+
+.cornerR,
+.cornerL,
+.topR,
+.topL {
+	position:absolute;
+	fill:var(--bg);
+}
+.nest {
+	fill:var(--makkuro);
+}
+
+.cornerR {
+	bottom:0;
+	right:0;
+}
+.movelist>.cornerR {
+	z-index:1;
+}
+.cornerL {
+	bottom:0;
+	left:0;
+}
+.topR {
+	top:0;
+	right:0;
+}
+.topL {
+	top:0;
+	left:0;
+}
