@@ -1,31 +1,29 @@
 ---
 layout: ura-layout
+header: top page
 title: top page
 ---
 
 {% include ura-stuff.html %}
 
-<div class="head">
-<h1>{{ page.title }}</h1>
-<h2></h2>
-</div>
-
 <div class="post_body">
-
-	<h3>social links</h3>
-	<div class="chat">
-		<ul>
-			<li>•<a href="https://toyhou.se/uraspectre">Toyhouse</a></li>
-			<li>•<a href="https://twitter.com/uraspectre">Twitter</a></li>
-			<li>•<a href="https://ura-spectre.tumblr.com/commission">Commissions</a></li>
-		</ul>
-		{{ cornerR }}
-	</div>
 	
-	<h3>other stuff</h3>
-	<div class="chat">
-		<p>currently none</p>
-		{{ cornerR }}
-	</div>
+	<div class="chat">{{ postTopL }}
+		<div class="chatbody">
+			<h3>links</h3>
+			<p><ul>
+				<li>•<a href="https://toyhou.se/uraspectre">Toyhouse</a></li>
+				<li>•<a href="https://twitter.com/uraspectre">Twitter</a></li>
+				<li>•<a href="https://ura-spectre.tumblr.com/comm">Commissions</a></li>
+			</ul></p>
+		</div>
+	{{ postBtmR }}</div>
+	
+	<div class="chat">{{ postTopL }}
+		<div class="chatbody">
+			<h3>other stuff</h3>
+			<p class="t-gr" style="font-size:14px">(currently none)</p>
+		</div>
+	{{ postBtmR }}</div>
 	
 </div>

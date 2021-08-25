@@ -1,0 +1,12 @@
+<!--page elements-->
+{% capture commStatus %}
+	<div style="position:absolute;width:100%;text-align:center; margin:4px -32px 8px;background-color:var(--bg);border-top:1px dashed var(--darkkuro);border-bottom:1px dashed var(--darkkuro)">
+		<h3>status</h3>
+		{% if page.status == 'open' %}
+			<b class="t-sb" style="display:block;margin:-4px 0 4px">OPEN</b>
+		{% else %}
+			<b class="t-pi2" style="display:block;margin:-4px 0 4px">CLOSED</b>
+		{% endif %}
+	</div>
+	<div style="margin-bottom:64px"></div>
+{% endcapture %}

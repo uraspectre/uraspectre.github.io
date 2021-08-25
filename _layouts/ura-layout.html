@@ -6,24 +6,37 @@
 		{% include ura-head.html %}
 	</head>
 	<body>
-		<div id="headcont">
-			<div class="head">	
-				<h1>{{ page.header }}</h1>
-				<div style="margin: 8px 0 16px"></div>
-				<div class="pagination">
-					{% if page.sections %}
-						<div class="kyaratabs">{% for sec in page.sections %}
-							<a href="{{ sec[1] }}">{{ sec[0] }}</a>{% endfor %}
-						</div>
-					{% endif %}
-					
-					<span style="position:absolute;left:0">
-						<a href={{ page.prv }}>« back</a>
-					</span>
-					<span style="margin:auto">
-						<a href="/">top</a>
-					</span>
-				</div>
+		<div id="head">	
+			<div class="nav ntop">
+				{% if page.prv %}
+				<span style="position:absolute;left:0">
+					<a href={{ page.prv }}>« back</a>
+				</span>
+				{% endif %}
+				<span style="margin:auto">
+					<a href="/">top</a>
+				</span>
+				{% if page.nxt %}
+				<span style="position:absolute;left:0">
+					<a href={{ page.prv }}>next »</a>
+				</span>
+				{% endif %}
+			</div>
+		
+			<h1>{{ page.header }}</h1>
+			<div style="margin: 8px 0 16px"></div>
+			{% if page.sections %}
+			<div class="pagination">
+					<div class="kyaratabs">{% for sec in page.sections %}
+						<a href="{{ sec[1] }}">{{ sec[0] }}</a>{% endfor %}
+					</div>
+			</div>
+			{% endif %}
+			
+			<div class="nav nbtm">
+				<span><a href="https://toyhou.se/uraspectre">characters</a></span>
+				<span><a href="https://twitter.com/uraspectre">twitter</a></span>
+				<span><a href="commission">commissions</a></span>
 			</div>
 		</div>
 		
