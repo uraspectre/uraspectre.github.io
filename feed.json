@@ -1,0 +1,826 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "spectre's abode (JSON)",
+	"home_page_url": "",
+	"feed_url": "/feed.json",
+	"description": "art & stuff by ura-spectre",
+    
+	"language": "en-us",
+	"items": [
+		{
+			"id": "20250404-leilei.0023",
+			"url": "/art/leilei",
+            "content_text": "make it go away",
+            "content_html": "<img src=\"/art/leilei.0023.png\" alt=\"an anthropomorphic black cat in a suit brushing sweat off their head. her suit is unbuttoned low enough to show most of her boobs.\" width=720 height=1024><p>make it go away</p>\n            <section>\n                ─ <a href=\"https://ura-spectre.tumblr.com/post/79911633552162816\">tumblr</a> • <a href=\"https://bsky.app/profile/uraspectre.bsky.social/post/3llyrc4ul4225\">bluesky</a> ─</div></section>",
+            "title": "too hot",
+		    "date_published": "2025-04-04T10:48:01-05:00",
+            "tags": [ "art", "oc:leilei" ],
+            "attachments": [
+                {
+                    "url": "/art/leilei.0023.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 20581
+                }
+            ]
+            
+        },
+		{
+			"id": "20250324-estuary.0000",
+			"url": "/art/estuary",
+            "content_text": "another pokéguy.\nthey're just fun to doodle!",
+            "content_html": "<img src=\"/art/estuary.0000.png\" alt=\"an anthro Frogadier smiling at the viewer and adjusting their glasses.\" width=640 height=1124><p>another pokéguy.<br />\nthey're just fun to doodle!</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/778876813013286912/another-pok%C3%A9guy-theyre-just-fun-to-doodle\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3ll426r5mmk2y\">bluesky</a> ─</div></section>",
+            "title": "estuary",
+		    "date_published": "2025-03-24T00:40:04-05:00",
+            "tags": [ "art", "pkmn", "oc:estuary" ],
+            "attachments": [
+                {
+                    "url": "/art/estuary.0000.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 21854
+                }
+            ]
+            
+        },
+		{
+			"id": "20250210-talon.0000",
+			"url": "/art/talon",
+            "content_text": "`•ω•´\n\n“a relaxed sneasel. just likes to be around people even if she's not having a conversation or anything. her hobby is sleight-of-hand &amp; card tricks.”",
+            "content_html": "<img src=\"/art/talon.0000.png\" alt=\"ref sheet of an anthro sneasel in a few poses and outfits.\" width=1232 height=876><p>`•ω•´</p>\n\n<blockquote>\n  <p>a relaxed sneasel. just likes to be around people even if she's not having a conversation or anything. her hobby is sleight-of-hand &amp; card tricks.</p>\n</blockquote>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/775151532142460928/the-sneaser\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3lhunifvy4k24\">bluesky</a> ─</div></section>",
+            "title": "the sneaser",
+		    "date_published": "2025-02-10T20:48:04-06:00",
+            "tags": [ "art", "pkmn", "oc:talon" ],
+            "attachments": [
+                {
+                    "url": "/art/talon.0000.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 50139
+                }
+            ]
+            
+        },
+		{
+			"id": "20250122-bristle.0004",
+			"url": "/art/bristle",
+            "content_text": "another pokédesign.\ni kinda like galarian meowth even though i don't like purrserker. it happens, i guess\n\n“A self-confident and standoffish Meowth.\nShe is generally nice, but just prefers being alone. To that end, her brusque behavior tends to keep others away.”\n\ncharacter theme:\n♪ COOL JAM (Iori Yagami) (THE KING OF FIGHTERS '97 ARRANGE SOUND TRAX)",
+            "content_html": "<img src=\"/art/bristle.0004.png\" alt=\"ref sheet of an anthro galarian meowth. she's a gruff, bearded brown cat with black ears and horns.\" width=1424 height=920><p>another pokédesign.<br />\ni kinda like galarian meowth even though i don't like purrserker. it happens, i guess</p>\n\n<blockquote>\n  <p>A self-confident and standoffish Meowth.<br />\nShe is generally nice, but just prefers being alone. To that end, her brusque behavior tends to keep others away.</p>\n</blockquote>\n\n<p>character theme:\n<a href=\"https://www.youtube.com/watch?v=xfiwNeAvnRc\">♪ <strong>COOL JAM (Iori Yagami)</strong></a> (THE KING OF FIGHTERS '97 ARRANGE SOUND TRAX)</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/773409223012974592/another-pokédesign-a-self-confident-and\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3lgebyqx7i22l\">bluesky</a> ─</div></section>",
+            "title": "galarian meowth",
+		    "date_published": "2025-01-22T15:15:15-06:00",
+            "tags": [ "art", "oc:bristle" ],
+            "attachments": [
+                {
+                    "url": "/art/bristle.0004.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 61191
+                }
+            ]
+            
+        },
+		{
+			"id": "20241218-echo.0000",
+			"url": "/art/echo",
+            "content_text": "a little different of a body type for me!\ngligar is so cool :]",
+            "content_html": "<img src=\"/art/echo.0000.png\" alt=\"drawing of an anthro Gligar from Pokémon grinning with her hands by her cheeks.\" width=640 height=768><img src=\"/art/echo.0000b.png\" alt=\"the same drawing, but without clothing to better show her body type.\" width=640 height=768><p>a little different of a body type for me!<br />\ngligar is so cool :]</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/770183712086360064/we-love-funny-bat\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3ldkr64spmk2c\">bluesky</a> ─</div></section>",
+            "title": "we love funny bat",
+		    "date_published": "2024-12-18T00:47:00-06:00",
+            "tags": [ "art", "oc:echo" ],
+            "attachments": [
+                {
+                    "url": "/art/echo.0000.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 18192
+                },{
+                    "url": "/art/echo.0000b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14322
+                }
+            ]
+            
+        },
+		{
+			"id": "20241213-verity.0003",
+			"url": "/art/verity",
+            "content_text": "nobody's doing it like him\n(plus a bonus doodle from @bittenbun [tumblr • bluesky])",
+            "content_html": "<img src=\"/art/verity.0003.png\" alt=\"a couple of action shots of an anthro Sirfetch'd evading enemy attacks while counterattacking. plus a doodle from a friend where he's a tiny baby bird.\" width=1152 height=1864><p>nobody's doing it like him<br />\n(plus a bonus doodle from @bittenbun [<a href=\"https://bittenbun.tumblr.com\">tumblr</a> • <a href=\"https://bsky.app/profile/bittenbun.bsky.social\">bluesky</a>])</p>\n            <section>\n                ─ <a href=\"https://ura-spectre.tumblr.com/post/769740584010252288/nobodys-doing-it-like-him-colored-sketches-a\">tumblr</a> • <a href=\"https://bsky.app/profile/uraspectre.bsky.social/post/3ld6hlrbkqc2b\">bluesky</a> ─</div></section>",
+            "title": "verity sketches",
+		    "date_published": "2024-12-13T03:23:03-06:00",
+            "tags": [ "art", "oc:verity" ],
+            "attachments": [
+                {
+                    "url": "/art/verity.0003.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 62655
+                }
+            ]
+            
+        },
+		{
+			"id": "20241201-atlyss.0000",
+			"url": "/art/atlyss",
+            "content_text": "*peep*",
+            "content_html": "<img src=\"/art/atlyss.0000.png\" alt width=2160 height=1920><p>*peep*</p>\n            <section>\n                ─ <a href=\"https://ura-spectre.tumblr.com/post/768658605392232448/atlyss-guys-under-read-more-screenshots\">tumblr</a> • <a href=\"https://bsky.app/profile/uraspectre.bsky.social/post/3lcagm3zfjs2m\">bluesky</a> ─</div></section>",
+            "title": "atlyss guys",
+		    "date_published": "2024-12-01T03:46:40-06:00",
+            "tags": [ "art", "oc:azure", "oc:amra", "oc:momo" ],
+            "attachments": [
+                {
+                    "url": "/art/atlyss.0000.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 66329
+                }
+            ]
+            
+        },
+		{
+			"id": "20241122-anya.0010",
+			"url": "/art/anya",
+            "content_text": "meeeowth, dat's right",
+            "content_html": "<img src=\"/art/anya.0010.png\" alt width=1232 height=1024><p>meeeowth, dat's right</p>\n            <section>\n                ─ <a href=\"https://ura-spectre.tumblr.com/post/767857220207722496\">tumblr</a> • <a href=\"https://bsky.app/profile/uraspectre.bsky.social/post/3lbjojwextk2v\">bluesky</a> ─</div></section>",
+            "title": "anya ref",
+		    "date_published": "2024-11-22T03:36:06-06:00",
+            "tags": [ "art", "oc:anya" ],
+            "attachments": [
+                {
+                    "url": "/art/anya.0010.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 59693
+                }
+            ]
+            
+        },
+		{
+			"id": "20241111-knap.0004",
+			"url": "/art/knap",
+            "content_text": "minor redesign",
+            "content_html": "<img src=\"/art/knap.0004.png\" alt=\"a blanket ghost with arms made of ribbons\" width=1080 height=1560><p>minor redesign</p>\n            <section>\n                ─ <a href=\"https://bsky.app/profile/uraspectre.bsky.social/post/3l6zemfzjco22\">bluesky</a> ─</div></section>",
+            "title": "spooky sleep spirit",
+		    "date_published": "2024-11-11T18:59:59-06:00",
+            "tags": [ "art", "oc:chacha" ],
+            "attachments": [
+                {
+                    "url": "/art/knap.0004.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14531
+                }
+            ]
+            
+        },
+		{
+			"id": "20241021-chacha.0003",
+			"url": "/art/chacha",
+            "content_text": "autumn is hautumn",
+            "content_html": "<img src=\"/art/chacha.0003.png\" alt width=876 height=984><p>autumn is hautumn</p>\n            <section>\n                ─ <a href=\"https://bsky.app/profile/uraspectre.bsky.social/post/3l6zemfzjco22\">bluesky</a> ─</div></section>",
+            "title": "sweater 'cha",
+		    "date_published": "2024-10-21T06:06:06-05:00",
+            "tags": [ "art", "oc:chacha" ],
+            "attachments": [
+                {
+                    "url": "/art/chacha.0003.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14531
+                }
+            ]
+            
+        },
+		{
+			"id": "20241013-genoblader_pluma.0003",
+			"url": "/art/genoblader_pluma",
+            "content_text": "for @Genoblader",
+            "content_html": "<img src=\"/art/genoblader_pluma.0003.png\" alt width=1120 height=1496><p>for <a href=\"https://twitter.com/Genoblader\">@Genoblader</a></p></section>",
+            "title": "pluma",
+		    "date_published": "2024-10-13T05:41:32-05:00",
+            "tags": [ "art", "genoblader" ],
+            "attachments": [
+                {
+                    "url": "/art/genoblader_pluma.0003.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 34872
+                }
+            ]
+            
+        },
+		{
+			"id": "20241008-boss.0006b",
+			"url": "/art/boss.",
+            "content_text": "and the bathwater too. yeah. no, the baby has to go.",
+            "content_html": "<img src=\"/art/boss.0006b.png\" alt=\"a couple drawings of a portly shadow demon pitching a bomb-shaped demon like a baseball.\" width=2400 height=1760><p>and the bathwater too. yeah. no, the baby <strong>has</strong> to go.</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/763793060845027328/toss-the-baby\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3l5zf4qzie52r\">bluesky</a> ─</div></section>",
+            "title": "toss the baby",
+		    "date_published": "2024-10-08T12:50:00-05:00",
+            "tags": [ "art", "doodle", "oc:vice" ],
+            "attachments": [
+                {
+                    "url": "/art/boss.0006b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 35067
+                }
+            ]
+            
+        },
+		{
+			"id": "20241007-boss.0006a",
+			"url": "/art/boss.",
+            "content_text": "cool-looking vice drawing…",
+            "content_html": "<img src=\"/art/boss.0006a.png\" alt=\"a tough, portly shadow-demon posing with an anxious bomb-like demon.\" width=1080 height=1440><p>cool-looking vice drawing…</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/763700835976904704/vice\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3l5wgtobxvr2r\">bluesky</a> ─</div></section>",
+            "title": "vice",
+		    "date_published": "2024-10-07T12:24:24-05:00",
+            "tags": [ "art", "doodle", "oc:vice" ],
+            "attachments": [
+                {
+                    "url": "/art/boss.0006a.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 18121
+                }
+            ]
+            
+        },
+		{
+			"id": "20240913-verity.0000",
+			"url": "/art/verity",
+            "content_text": "the fetch'd",
+            "content_html": "<img src=\"/art/verity.0000.png\" alt=\"drawing of an anthropomorphic Sirfetch'd posing with their leek-sword on their shoulder.\" width=848 height=1084><img src=\"/art/verity.0000b.png\" alt=\"the same drawing minus the clothing.\" width=848 height=1084><p>the fetch'd</p>\n            <section>\n                ─ <a href=\"https://ura-spectre.tumblr.com/post/761552185352962048/the-fetchd\">tumblr</a> ─</div></section>",
+            "title": "verity",
+		    "date_published": "2024-09-13T18:00:18-05:00",
+            "tags": [ "art", "oc:verity" ],
+            "attachments": [
+                {
+                    "url": "/art/verity.0000.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 32622
+                },{
+                    "url": "/art/verity.0000b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 30982
+                }
+            ]
+            
+        },
+		{
+			"id": "20240906-glide.0000",
+			"url": "/art/glide",
+            "content_text": "colored an old sketch",
+            "content_html": "<img src=\"/art/glide.0000.png\" alt width=400 height=696><p>colored an old sketch</p></section>",
+            "title": "glide",
+		    "date_published": "2024-09-06T07:42:00-05:00",
+            "tags": [ "art", "oc:glide" ],
+            "attachments": [
+                {
+                    "url": "/art/glide.0000.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 9641
+                }
+            ]
+            
+        },
+		{
+			"id": "20240903-anya.0009",
+			"url": "/art/anya",
+            "content_text": "¬ω¬",
+            "content_html": "<img src=\"/art/anya.0009.png\" alt=\"drawing of an anthropomorphic Meowth posing with one arm out and the other back.\" width=576 height=1048><p>¬ω¬</p></section>",
+            "title": "anyaaa",
+		    "date_published": "2024-09-03T08:23:00-05:00",
+            "tags": [ "art", "oc:anya" ],
+            "attachments": [
+                {
+                    "url": "/art/anya.0009.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 24108
+                }
+            ]
+            
+        },
+		{
+			"id": "20240809-arcana.0023",
+			"url": "/art/arcana",
+            "content_text": "this is what arcana would look like in a 90's beat-'em-up.\nmaybe.",
+            "content_html": "<img src=\"/art/arcana.0023.png\" alt width=696 height=1024><img src=\"/art/arcana-0023b.png\" alt ><p>this is what arcana would look like in a 90's beat-'em-up.<br />\nmaybe.</p></section>",
+            "title": "arcanum",
+		    "date_published": "2024-08-09T22:10:00-05:00",
+            "tags": [ "art", "oc:arcana" ],
+            "attachments": [
+                {
+                    "url": "/art/arcana.0023.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 69941
+                },{
+                    "url": "/art/arcana-0023b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 70438
+                }
+            ]
+            
+        },
+		{
+			"id": "20240703-match.0003",
+			"url": "/art/match",
+            "content_text": "minor redesign",
+            "content_html": "<img src=\"/art/match.0003.png\" alt width=876 height=1240><p>minor redesign</p></section>",
+            "title": "match!",
+		    "date_published": "2024-07-03T21:09:00-05:00",
+            "tags": [ "art", "oc:match" ],
+            "attachments": [
+                {
+                    "url": "/art/match.0003.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 25486
+                }
+            ]
+            
+        },
+		{
+			"id": "20240629-key.0001",
+			"url": "/art/key",
+            "content_text": "total overhaul of the design,\nbut i'm glad she's a little more differentiated from the other two now!",
+            "content_html": "<img src=\"/art/key.0001.png\" alt width=1600 height=1696><p>total overhaul of the design,<br />\nbut i'm glad she's a little more differentiated from the other two now!</p></section>",
+            "title": "key!",
+		    "date_published": "2024-06-29T12:12:24-05:00",
+            "tags": [ "art", "oc:key" ],
+            "attachments": [
+                {
+                    "url": "/art/key.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 53305
+                }
+            ]
+            
+        },
+		{
+			"id": "20240618-ochre.0002",
+			"url": "/art/ochre",
+            "content_text": "spiffy outfit design",
+            "content_html": "<img src=\"/art/ochre.0002.png\" alt width=680 height=920><p>spiffy outfit design</p></section>",
+            "title": "eyer guyer",
+		    "date_published": "2024-06-18T21:02:21-05:00",
+            "tags": [ "art", "oc:ochre" ],
+            "attachments": [
+                {
+                    "url": "/art/ochre.0002.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 10287
+                }
+            ]
+            
+        },
+		{
+			"id": "20240618-ochre.0001",
+			"url": "/art/ochre",
+            "content_text": "◉",
+            "content_html": "<img src=\"/art/ochre.0001.png\" alt width=720 height=1080><p>◉</p></section>",
+            "title": "eye guy",
+		    "date_published": "2024-06-18T21:02:10-05:00",
+            "tags": [ "art", "oc:ochre" ],
+            "attachments": [
+                {
+                    "url": "/art/ochre.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 17992
+                }
+            ]
+            
+        },
+		{
+			"id": "20240617-dramor.0031",
+			"url": "/art/dramor",
+            "content_text": "last one of these for now",
+            "content_html": "<img src=\"/art/dramor.0031.png\" alt width=752 height=1176><p>last one of these for now</p></section>",
+            "title": "maid dramor",
+		    "date_published": "2024-06-17T23:16:09-05:00",
+            "tags": [ "art", "oc:dramor" ],
+            "attachments": [
+                {
+                    "url": "/art/dramor.0031.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 26427
+                }
+            ]
+            
+        },
+		{
+			"id": "20240616-leilei.0018",
+			"url": "/art/leilei",
+            "content_text": "busy day",
+            "content_html": "<img src=\"/art/leilei.0018.png\" alt width=680 height=1080><p>busy day</p></section>",
+            "title": "maid lei-lei",
+		    "date_published": "2024-06-16T21:28:35-05:00",
+            "tags": [ "art", "oc:leilei" ],
+            "attachments": [
+                {
+                    "url": "/art/leilei.0018.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14668
+                }
+            ]
+            
+        },
+		{
+			"id": "20240615-octo.0022",
+			"url": "/art/octo",
+            "content_text": "whose service is it anyway",
+            "content_html": "<img src=\"/art/octo.0022.png\" alt width=600 height=1024><p>whose service is it anyway</p></section>",
+            "title": "maid marin",
+		    "date_published": "2024-06-15T21:30:00-05:00",
+            "tags": [ "art", "oc:marin" ],
+            "attachments": [
+                {
+                    "url": "/art/octo.0022.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 13997
+                }
+            ]
+            
+        },
+		{
+			"id": "20240614-leilei.0015",
+			"url": "/art/leilei",
+            "content_text": "barmaid lei-lei… barmeilei… wait don't have one of those",
+            "content_html": "<img src=\"/art/leilei.0015.png\" alt width=576 height=1128><p>barmaid lei-lei… barmeilei… wait don't have one of those</p></section>",
+            "title": "special order",
+		    "date_published": "2024-06-14T20:48:24-05:00",
+            "tags": [ "art", "oc:leilei" ],
+            "attachments": [
+                {
+                    "url": "/art/leilei.0015.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14525
+                }
+            ]
+            
+        },
+		{
+			"id": "20240613-lux.0009",
+			"url": "/art/lux",
+            "content_text": "hungry-ass…",
+            "content_html": "<img src=\"/art/lux.0009.png\" alt width=512 height=896><p>hungry-ass…</p></section>",
+            "title": "luxing for snacks",
+		    "date_published": "2024-06-13T22:25:55-05:00",
+            "tags": [ "art", "oc:lux" ],
+            "attachments": [
+                {
+                    "url": "/art/lux.0009.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 12045
+                }
+            ]
+            
+        },
+		{
+			"id": "20240612-anya.0008",
+			"url": "/art/anya",
+            "content_text": "very minor design revision…",
+            "content_html": "<img src=\"/art/anya.0008.png\" alt=\"drawing of an anthropomorphic Meowth with one arm half-raised at the viewer.\" width=696 height=1048><p>very minor design revision…</p></section>",
+            "title": "miau",
+		    "date_published": "2024-06-12T21:53:00-05:00",
+            "tags": [ "art", "oc:anya" ],
+            "attachments": [
+                {
+                    "url": "/art/anya.0008.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 24435
+                }
+            ]
+            
+        },
+		{
+			"id": "20240611-arcana.0019",
+			"url": "/art/arcana",
+            "content_text": "stripping me down to hot temptation",
+            "content_html": "<img src=\"/art/arcana.0019.png\" alt width=576 height=876><p>stripping me down to hot temptation</p></section>",
+            "title": "summer is burning a hole in my heart",
+		    "date_published": "2024-06-11T21:03:00-05:00",
+            "tags": [ "art", "oc:arcana" ],
+            "attachments": [
+                {
+                    "url": "/art/arcana.0019.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 17562
+                }
+            ]
+            
+        },
+		{
+			"id": "20230921-ceru.0003",
+			"url": "/art/ceru",
+            "content_text": "what's good, ceru",
+            "content_html": "<img src=\"/art/ceru.0003.png\" alt width=464 height=1064><p>what's good, ceru</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/729092794462928896/hiii\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3kvmadhkuck24\">bluesky</a> ─</div></section>",
+            "title": "hiii",
+		    "date_published": "2023-09-21T12:24:24-05:00",
+            "tags": [ "art", "oc:ceru" ],
+            "attachments": [
+                {
+                    "url": "/art/ceru.0003.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14464
+                }
+            ]
+            
+        },
+		{
+			"id": "20230920-io.0013b",
+			"url": "/art/io.",
+            "content_text": "get it done right",
+            "content_html": "<img src=\"/art/io.0013b.png\" alt width=820 height=1096><p>get it done right</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/729002197732540416/paper-paper-toil-and-labor\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3kvjvecstga2p\">bluesky</a> ─</div></section>",
+            "title": "paper, paper, toil and labor",
+		    "date_published": "2023-09-20T12:24:24-05:00",
+            "tags": [ "art", "oc:io" ],
+            "attachments": [
+                {
+                    "url": "/art/io.0013b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 20321
+                }
+            ]
+            
+        },
+		{
+			"id": "20230919-io.0013a",
+			"url": "/art/io.",
+            "content_text": "•w&lt;～☆",
+            "content_html": "<img src=\"/art/io.0013a.png\" alt width=672 height=1120><p>•w&lt;～☆</p>\n            <section>\n                ─ <a href=\"https://fukouiro.tumblr.com/post/728868340668448768/w\">tumblr</a> • <a href=\"https://bsky.app/profile/sadcolor.net/post/3kvhg4lrxhr2j\">bluesky</a> ─</div></section>",
+            "title": "iyo iyo io dayo",
+		    "date_published": "2023-09-19T12:56:00-05:00",
+            "tags": [ "art", "oc:io" ],
+            "attachments": [
+                {
+                    "url": "/art/io.0013a.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 15951
+                }
+            ]
+            
+        },
+		{
+			"id": "20230101-akeome2023",
+			"url": "/art/akeom",
+            "content_text": "papipupepo",
+            "content_html": "<img src=\"/art/akeome2023.png\" alt width=768 height=920><p>papipupepo</p></section>",
+            "title": "AKE★OME 2023",
+		    "date_published": "2022-12-31T23:00:00-06:00",
+            "tags": [ "art", "akeome", "oc:keep" ],
+            "attachments": [
+                {
+                    "url": "/art/akeome2023.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 12045
+                }
+            ]
+            
+        },
+		{
+			"id": "20221110-perch.0002",
+			"url": "/art/perch",
+            "content_text": "this is why you should never print receipts",
+            "content_html": "<img src=\"/art/perch.0002a.png\" alt width=640 height=848><img src=\"/art/perch.0002b.png\" alt width=640 height=848><p>this is why you should never print receipts</p></section>",
+            "title": "ghost of capitalism present",
+		    "date_published": "2022-11-10T00:20:12-06:00",
+            "tags": [ "art", "oc:perch" ],
+            "attachments": [
+                {
+                    "url": "/art/perch.0002a.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 22431
+                },{
+                    "url": "/art/perch.0002b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 31078
+                }
+            ]
+            
+        },
+		{
+			"id": "20220721-lux.0007",
+			"url": "/art/lux",
+            "content_text": "saw a post on tumblr and had an idea",
+            "content_html": "<img src=\"/art/lux.0007.png\" alt width=700 height=480><p>saw a post on tumblr and had an idea</p></section>",
+            "title": "3AM call from lux",
+		    "date_published": "2022-07-21T09:08:07-05:00",
+            "tags": [ "art", "oc:leilei", "oc:lux" ],
+            "attachments": [
+                {
+                    "url": "/art/lux.0007.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 9646
+                }
+            ]
+            
+        },
+		{
+			"id": "20220517-chacha.0002",
+			"url": "/art/chacha",
+            "content_text": "&gt;:P",
+            "content_html": "<img src=\"/art/chacha.0002.png\" alt width=720 height=836><p>&gt;:P</p></section>",
+            "title": "chachacha",
+		    "date_published": "2022-05-17T22:48:06-05:00",
+            "tags": [ "art", "oc:chacha" ],
+            "attachments": [
+                {
+                    "url": "/art/chacha.0002.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 11643
+                }
+            ]
+            
+        },
+		{
+			"id": "20220430-arcana.0008",
+			"url": "/art/arcana",
+            "content_text": "be sure to continue before the timer runs out",
+            "content_html": "<img src=\"/art/arcana.0008.png\" alt width=740 height=720><p>be sure to continue before the timer runs out</p></section>",
+            "title": "K.O. yowch!!!!",
+		    "date_published": "2022-04-30T03:25:00-05:00",
+            "tags": [ "art", "oc:arcana" ],
+            "attachments": [
+                {
+                    "url": "/art/arcana.0008.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 29682
+                }
+            ]
+            
+        },
+		{
+			"id": "20211102-aya.0010",
+			"url": "/art/aya",
+            "content_text": "well i am now two days late but i was given a suggestion to draw aya in a nun outfit for halloween so…\nhappy birthday everyone",
+            "content_html": "<img src=\"/art/aya.0010.png\" alt width=1280 height=2280><p>well i am now two days late but i was given a suggestion to draw aya in a nun outfit for halloween so…<br />\nhappy birthday everyone</p></section>",
+            "title": "sister aya",
+		    "date_published": "2021-11-02T03:05:04-05:00",
+            "tags": [ "art", "oc:aya" ],
+            "attachments": [
+                {
+                    "url": "/art/aya.0010.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 57807
+                }
+            ]
+            
+        },
+		{
+			"id": "20211015-maccra.0004",
+			"url": "/art/maccra",
+            "content_text": "`•ω•´",
+            "content_html": "<img src=\"/art/maccra.0004.png\" alt width=576 height=848><p>`•ω•´</p></section>",
+            "title": "maccra",
+		    "date_published": "2021-10-15T03:11:30-05:00",
+            "tags": [ "art", "oc:maccra" ],
+            "attachments": [
+                {
+                    "url": "/art/maccra.0004.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 14693
+                }
+            ]
+            
+        },
+		{
+			"id": "20211009-zatsu-latte",
+			"url": "/art/zatsu-",
+            "content_text": "you know the drill",
+            "content_html": "<img src=\"/art/zatsu-latte.png\" alt width=1056 height=2160><p>you know the drill</p></section>",
+            "title": "that latté meme",
+		    "date_published": "2021-10-09T04:34:04-05:00",
+            "tags": [ "art", "oc:knap", "oc:lux", "oc:marin", "oc:metasis", "oc:phial" ],
+            "attachments": [
+                {
+                    "url": "/art/zatsu-latte.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 62615
+                }
+            ]
+            
+        },
+		{
+			"id": "20210805-perch.0001",
+			"url": "/art/perch",
+            "content_text": "can you stop having problems i'm trying to be #cozy over here",
+            "content_html": "<img src=\"/art/perch.0001.png\" alt width=1280 height=720><p>can you stop having problems i'm trying to be #cozy over here</p></section>",
+            "title": "thing",
+		    "date_published": "2021-08-05T10:00:01-05:00",
+            "tags": [ "art", "oc:io", "oc:perch" ],
+            "attachments": [
+                {
+                    "url": "/art/perch.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 29682
+                }
+            ]
+            
+        },
+		{
+			"id": "20210731-keep.0003",
+			"url": "/art/keep",
+            "content_text": "cuz i did it all at sharp angles instead of rounding it out,\nit looks more like some kind of foil or something instead oops",
+            "content_html": "<img src=\"/art/keep.0003.png\" alt width=576 height=1200><p>cuz i did it all at sharp angles instead of rounding it out,<br />\nit looks more like some kind of foil or something instead oops</p></section>",
+            "title": "rendered keep",
+		    "date_published": "2021-07-31T05:41:32-05:00",
+            "tags": [ "art", "oc:keep" ],
+            "attachments": [
+                {
+                    "url": "/art/keep.0003.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 8276
+                }
+            ]
+            
+        },
+		{
+			"id": "20210721-anya.0003b",
+			"url": "/art/anya.",
+            "content_text": "where do you think you're lookin', eh",
+            "content_html": "<img src=\"/art/anya.0003b.png\" alt width=480 height=760><p>where do you think you're lookin', eh</p></section>",
+            "title": "anya (back view)",
+		    "date_published": "2021-07-21T18:39:00-05:00",
+            "tags": [ "art", "oc:anya" ],
+            "attachments": [
+                {
+                    "url": "/art/anya.0003b.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 13415
+                }
+            ]
+            
+        },
+		{
+			"id": "20210719-anya.0003a",
+			"url": "/art/anya.",
+            "content_text": "it's kinda like…",
+            "content_html": "<img src=\"/art/anya.0003a.png\" alt width=544 height=760><p>it's kinda like…</p></section>",
+            "title": "anya",
+		    "date_published": "2021-07-19T22:47:00-05:00",
+            "tags": [ "art", "oc:anya" ],
+            "attachments": [
+                {
+                    "url": "/art/anya.0003a.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 17571
+                }
+            ]
+            
+        },
+		{
+			"id": "20210713-duo.0001",
+			"url": "/art/duo",
+            "content_text": "if mewtwo is so good why isn't there a—",
+            "content_html": "<img src=\"/art/duo.0001.png\" alt width=600 height=848><p>if mewtwo is so good why isn't there a—</p></section>",
+            "title": "m2",
+		    "date_published": "2021-07-13T12:21:12-05:00",
+            "tags": [ "art", "oc:duo" ],
+            "attachments": [
+                {
+                    "url": "/art/duo.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 18025
+                }
+            ]
+            
+        },
+		{
+			"id": "20210422-boss.0001",
+			"url": "/art/boss",
+            "content_text": "funniest guy i've ever seen",
+            "content_html": "<img src=\"/art/boss.0001.png\" alt width=1360 height=720><p>funniest guy i've ever seen</p></section>",
+            "title": "vice",
+		    "date_published": "2021-04-22T06:24:24-05:00",
+            "tags": [ "art", "oc:vice" ],
+            "attachments": [
+                {
+                    "url": "/art/boss.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 58039
+                }
+            ]
+            
+        },
+		{
+			"id": "20201008-keep.0001",
+			"url": "/art/keep",
+            "content_text": "👻",
+            "content_html": "<img src=\"/art/keep.0001.png\" alt width=480 height=824><p>👻</p></section>",
+            "title": "keep",
+		    "date_published": "2020-10-08T06:04:02-05:00",
+            "tags": [ "art", "oc:keep" ],
+            "attachments": [
+                {
+                    "url": "/art/keep.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 8276
+                }
+            ]
+            
+        },
+		{
+			"id": "20200910-chacha.0001",
+			"url": "/art/chacha",
+            "content_text": "funny pumpkin design that i did in a halloween doodle before\nteppanyaki (western-style) chef who cuts up their uniform during their fancy cooking stunts.",
+            "content_html": "<img src=\"/art/chacha.0001.png\" alt width=1100 height=1000><p>funny pumpkin design that i did in a halloween doodle before<br />\nteppanyaki (western-style) chef who cuts up their uniform during their fancy cooking stunts.</p></section>",
+            "title": "chacha",
+		    "date_published": "2020-09-10T17:15:13-05:00",
+            "tags": [ "art", "oc:chacha" ],
+            "attachments": [
+                {
+                    "url": "/art/chacha.0001.png",
+                    "mime_type": "image/png",
+                    "size_in_bytes": 33150
+                }
+            ]
+            
+        }
+	]
+}
