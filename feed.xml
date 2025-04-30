@@ -5,9 +5,26 @@
 		<link></link>
 		<description>art &amp; stuff by ura-spectre</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 11:13:40 -0500</pubDate>
+		<pubDate>Tue, 29 Apr 2025 19:07:59 -0500</pubDate>
 		
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<guid>/art/anya</guid>
+			<title>strip poker ver.anya</title>
+			<link>/art/anya</link>
+			<description>can you guys convince my friends to play strip mahjong instead of strip poker
+
+(bonus doodles by @rubicsart [((bluesky)[https://bsky.app/profile/rubicsart.bsky.social] • (tumblr)[https://rubic.tumblr.com]])
+
+translation:
+“(1) i'm pretty lucky, y'know! just another payday for me
+(2) aren't you lucky, seeing me like this!
+(3) haven't made first place, but my wallet's pretty happy!”</description>
+			<pubDate>Wed, 09 Apr 2025 18:51:15 -0500</pubDate>
+			<category>art</category><category>oc:anya</category>
+			<enclosure url="/art/anya.0013a.png" length="47631" type="image/png"/>
+			<enclosure url="/art/anya.0013b.png" length="12337" type="image/png"/>
+			</item>
 		<item>
 			<guid>/art/leilei</guid>
 			<title>too hot</title>
