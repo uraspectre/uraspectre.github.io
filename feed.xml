@@ -5,9 +5,34 @@
 		<link></link>
 		<description>art &amp; stuff by ura-spectre</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Apr 2025 19:07:59 -0500</pubDate>
+		<pubDate>Thu, 22 May 2025 22:55:50 -0500</pubDate>
 		
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<guid>/art/twine</guid>
+			<title>twine</title>
+			<link>/art/twine</link>
+			<description>i'll think of an outfit later…</description>
+			<pubDate>Thu, 22 May 2025 22:38:30 -0500</pubDate>
+			<category>art</category><category>pkmn</category><category>oc:twine</category>
+			<enclosure url="/art/twine.0000.png" length="21185" type="image/png"/>
+			</item>
+		<item>
+			<guid>/art/estival</guid>
+			<title>estival</title>
+			<link>/art/estival</link>
+			<description>completing the meowth trio!
+
+“A vain cat.
+Works hard to make sure others think well of her, so she takes great care in her appearance, work, and words.
+However, in private, she is a complete slacker.”
+
+character theme:
+♪ SHINY WORLD (OutRun2)</description>
+			<pubDate>Sun, 18 May 2025 16:40:16 -0500</pubDate>
+			<category>art</category><category>pkmn</category><category>oc:estival</category>
+			<enclosure url="/art/estival.0000.png" length="80656" type="image/png"/>
+			</item>
 		<item>
 			<guid>/art/anya</guid>
 			<title>strip poker ver.anya</title>
@@ -66,7 +91,7 @@ i kinda like galarian meowth even though i don't like purrserker. it happens, i 
 She is generally nice, but just prefers being alone. To that end, her brusque behavior tends to keep others away.”
 
 character theme:
-♪ COOL JAM (Iori Yagami) (THE KING OF FIGHTERS '97 ARRANGE SOUND TRAX)</description>
+♪ GET ON A TRAIN [backing repeat] (STREET FIGHTER III NEW GENERATION ORIGINAL ARRANGE SOUNDTRACK)</description>
 			<pubDate>Wed, 22 Jan 2025 15:15:15 -0600</pubDate>
 			<category>art</category><category>oc:bristle</category>
 			<enclosure url="/art/bristle.0004.png" length="61191" type="image/png"/>
